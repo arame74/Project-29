@@ -1,0 +1,3 @@
+.venv/
+index/*.pkl
+index/metadata.json
